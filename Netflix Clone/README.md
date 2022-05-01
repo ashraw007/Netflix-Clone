@@ -1,7 +1,6 @@
-# Netflix-Clone
+# Netflix Clone
 
-A Netflix clone we created for the sake of represnting Netflix Clone from React and Redux. It features design
-patterns recommended by the documentation. Some of the tools used include: <br />
+Here we created a netflix clone from react and redux. Some of the tools used include: <br />
 
 - Hooks (and custom hooks)
 - React Router
