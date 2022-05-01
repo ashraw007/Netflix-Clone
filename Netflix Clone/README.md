@@ -1,7 +1,5 @@
 # Netflix-Clone
 
-![DemoGif](flixdemo.gif)
-
 A Netflix clone we created for the sake of represnting Netflix Clone from React and Redux. It features design
 patterns recommended by the documentation. Some of the tools used include: <br />
 
